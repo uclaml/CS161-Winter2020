@@ -40,7 +40,7 @@ Grades will be computed based on the following factors:
 | 2 | 1/8 | LISP | | |
 | 3 | 1/13 | Problem solving as search | Chapter 3 | HW1 Out|
 | 4 | 1/15 | Uninformed search strategies | Chapter 3 | |
-| | 1/20 | | Martin Luther King, Jr. holiday | |
+| | 1/20 | Martin Luther King, Jr. holiday | | |
 | 5 | 1/22 | Informed search strategies | Chapter 3,11 | HW1 Due, HW2 Out |
 | 6 | 1/27 | Heuristic search | Chapter 3 | |
 | 7 | 2/3 | Constraint satisfaction | Chapter 6 | |
