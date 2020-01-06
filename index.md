@@ -11,7 +11,7 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Teaching Assistant: 
     - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
     - Yewen Wang (Email: wyw10804 at cs dot ucla dot edu)
-    - Chi Zhang (Email: zccc at cs dot uca dot edu)
+    - Chi Zhang (Email: zccc at cs dot ucla dot edu)
     - Dongruo Zhou (Email: drzhou at cd dot ucla dot edu)
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
