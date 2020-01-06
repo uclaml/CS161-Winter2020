@@ -23,6 +23,7 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Course Website: [https://uclaml.github.io/CS161-Winter2020/](https://uclaml.github.io/CS161-Winter2020/)
 - Course Forum: [https://piazza.com/ucla/winter2020/cs161/home](https://piazza.com/ucla/winter2020/cs161/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2020/cs161).)
+
 ## Grading Policy
  
 Grades will be computed based on the following factors:
@@ -31,20 +32,22 @@ Grades will be computed based on the following factors:
 - Final 45%
 
 ## Schedule
+
+
 | # | Date  | Topics  | Reading | Homework  | 
 |----|----|----|----|----|
 | 1 | 1/6 | Introduction: What is AI?  | Chapter 1,2 | |
 | 2 | 1/8 | LISP | | |
 | 3 | 1/13 | Problem solving as search | Chapter 3 | HW1 Out|
 | 4 | 1/15 | Uninformed search strategies | Chapter 3 | |
-|  | 1/20 | | Martin Luther King, Jr. holiday | |
-| 5 | 1/22 | Informed search strategies | Chapter 3 & 11| HW1 Due, HW2 Out |
+| | 1/20 | | Martin Luther King, Jr. holiday | |
+| 5 | 1/22 | Informed search strategies | Chapter 3,11 | HW1 Due, HW2 Out |
 | 6 | 1/27 | Heuristic search | Chapter 3 | |
 | 7 | 2/3 | Constraint satisfaction | Chapter 6 | |
 | 8 | 2/5 | Constraint satisfaction | Chapter 6 | HW2 Due, HW3 Out |
 | 9 | 2/10 | Game playing Chapter | Chapter 5 | |
 | 10 | 2/12 | Game playing Chapter | Chapter 5 | |
-|  | 2/17 | President's Day | | HW3 Due, Hw4 oUT |
+| | 2/17 | President's Day | | HW3 Due, Hw4 Out |
 | 11 | 2/19 | Propositional logic: Representation | Chapter 7 | |
 | 12 | 2/24 | Midterm Exam | | |
 | 13 | 2/26 | Propositional logic: Inference | Chapter 7 | HW4 Due, HW5 Out |
@@ -52,8 +55,8 @@ Grades will be computed based on the following factors:
 | 15 | 3/4 | First-order logic: Inference | Chapter 9 | |
 | 16 | 3/9 | Bayesian Networks | Chapter 14 | HW5 Due, HW6 Out|
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
-|  | 3/16 | Final Exam | | HW6 Due |
-|  | 3/16 | Final Exam | | |
+| | 3/16 | Final Exam | | HW6 Due |
+| | 3/20 | Final Exam | | |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
