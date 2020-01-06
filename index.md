@@ -55,7 +55,7 @@ Grades will be computed based on the following factors:
 | 15 | 3/4 | First-order logic: Inference | Chapter 9 | |
 | 16 | 3/9 | Bayesian Networks | Chapter 14 | HW5 Due, HW6 Out|
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
-| | 3/16 | Final Exam | | HW6 Due |
+| | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
 
 ## Academic Integrity Policy
@@ -65,4 +65,4 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
 Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
-Homework assignments will be submitted through [Gradescope](https://www.gradescope.com/courses/78830). (If you didn't receive the invitation, email TA with your name, UID and account associated email address.) Login via the invite, and submit the homework assignments on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
+Homework assignments will be submitted through CCLE/Gradescope. Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
