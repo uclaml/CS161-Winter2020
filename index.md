@@ -63,6 +63,7 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 
 ## Homework
 There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
-<!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
-Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
-Homework assignments will be submitted through CCLE/Gradescope. Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
+
+Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet websites. Students should never see another student's solution before submitting their own. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.Homework assignments will be submitted through CCLE/Gradescope. 
+
+Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
