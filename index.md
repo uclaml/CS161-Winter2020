@@ -34,8 +34,8 @@ Grades will be computed based on the following factors:
 ## Schedule
 
 
-| # | Date  | Topics  | Reading | Homework |
-|----|----|----|----|----|
+| # | Date | Topics | Reading | Homework |
+| - | ---- | ------ | ------- | -------- |
 | 1 | 1/6 | Introduction: What is AI?  | Chapter 1,2 | |
 | 2 | 1/8 | LISP | | |
 | 3 | 1/13 | Problem solving as search | Chapter 3 | HW1 Out|
