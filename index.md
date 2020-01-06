@@ -29,6 +29,7 @@ Grades will be computed based on the following factors:
 - Homework 20%
 - Midterm 35%
 - Final 45%
+
 ## Schedule
 | # | Date  | Topics  | Reading | Homework  | 
 |----|----|----|----|----|
@@ -53,8 +54,10 @@ Grades will be computed based on the following factors:
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
 |  | 3/16 | Final Exam | | HW6 Due |
 |  | 3/16 | Final Exam | | |
+
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
+
 ## Homework
 There will be about 6 homework assignments during the semester as we cover the corresponding material. Homework consists of both problem solving and LISP programming. The lowest homework score will be dropped for you.
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
