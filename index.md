@@ -43,17 +43,18 @@ Grades will be computed based on the following factors:
 | | 1/20 | Martin Luther King, Jr. holiday | | |
 | 5 | 1/22 | Informed search strategies | Chapter 3,11 | HW1 Due, HW2 Out |
 | 6 | 1/27 | Heuristic search | Chapter 3 | |
-| 7 | 2/3 | Constraint satisfaction | Chapter 6 | |
-| 8 | 2/5 | Constraint satisfaction | Chapter 6 | HW2 Due, HW3 Out |
-| 9 | 2/10 | Game playing Chapter | Chapter 5 | |
-| 10 | 2/12 | Game playing Chapter | Chapter 5 | |
-| | 2/17 | President's Day | | HW3 Due, Hw4 Out |
-| 11 | 2/19 | Propositional logic: Representation | Chapter 7 | |
-| 12 | 2/24 | Midterm Exam | | |
-| 13 | 2/26 | Propositional logic: Inference | Chapter 7 | HW4 Due, HW5 Out |
-| 14 | 3/2 | First-order logic: Representation | Chapter 8 | |
-| 15 | 3/4 | First-order logic: Inference | Chapter 9 | |
-| 16 | 3/9 | Bayesian Networks | Chapter 14 | HW5 Due, HW6 Out|
+| 7 | 1/29 | Constraint satisfaction | Chapter 6 | |
+| 8 | 2/3 | Constraint satisfaction | Chapter 6 | HW2 Due, HW3 Out |
+| 9 | 2/5 | Game playing | Chapter 5 | |
+| 10 | 2/10 | Game playing | Chapter 5 | |
+| 11 | 2/12 | Propositional logic: Representation | Chapter 7 | HW3 Due, Hw4 Out |
+| | 2/17 | President's Day | | |
+| 12 | 2/19 | Propositional logic: Inference | Chapter 7 | |
+| | 2/24 | Midterm Exam | | HW4 Due, HW5 Out |
+| 13 | 2/26 | First-order logic: Representation | Chapter 8 | |
+| 14 | 3/2 | First-order logic: Inference | Chapter 9 | |
+| 15 | 3/4 | Reasoning under uncertainty | Chapter 13 | HW5 Due, HW6 Out |
+| 16 | 3/9 | Bayesian Networks | Chapter 14 | |
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
 | | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
