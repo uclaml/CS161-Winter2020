@@ -16,10 +16,10 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is: 
-        - Yewen Wang Monday 9:00am-11:00am at Bolter Hall 3256S-A
-        - Dongruo Zhou Tuesday 15:00pm-17:00pm at Bolter Hall 3256S-A
-        - Shirley Chen Wednesday 11:00am-1:00pm at Bolter Hall 3256S-B
-        - Chi Zhang Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
+        - [Yewen Wang](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0), Monday 9:00am-11:00am at Bolter Hall 3256S-A
+        - Dongruo Zhou, Tuesday 15:00pm-17:00pm at Bolter Hall 3256S-A
+        - Shirley Chen, Wednesday 11:00am-1:00pm at Bolter Hall 3256S-B
+        - Chi Zhang, Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
 - Course Website: [https://uclaml.github.io/CS161-Winter2020/](https://uclaml.github.io/CS161-Winter2020/)
 - Course Forum: [https://piazza.com/ucla/winter2020/cs161/home](https://piazza.com/ucla/winter2020/cs161/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2020/cs161).)
