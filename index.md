@@ -38,8 +38,8 @@ Grades will be computed based on the following factors:
 | - | ---- | ------ | ------- | -------- |
 | 1 | 1/6 | [About Course](https://www.dropbox.com/s/narnejmu9t4lxzl/Lecture0.pdf?dl=0), [Introduction: What is AI?](https://www.dropbox.com/s/un41l1tbcwryhcp/1-intro.pptx?dl=0) | Chapter 1,2 | |
 | 2 | 1/8 | [LISP](https://www.dropbox.com/s/i8zfup6vyg7slz9/Lecture02.pptx?dl=0) | | |
-| 3 | 1/13 | Problem solving as search | Chapter 3 | HW1 Out|
-| 4 | 1/15 | Uninformed search strategies | Chapter 3 | |
+| 3 | 1/13 | [Problem solving as search & Uninformed search strategies](https://www.dropbox.com/s/t2x50y2zgot7pos/Lecture3.pdf?dl=0) | Chapter 3 | |
+| 4 | 1/15 | Uninformed search strategies | Chapter 3 | HW1 Out |
 | | 1/20 | Martin Luther King, Jr. holiday | | |
 | 5 | 1/22 | Informed search strategies | Chapter 3,11 | HW1 Due, HW2 Out |
 | 6 | 1/27 | Heuristic search | Chapter 3 | |
