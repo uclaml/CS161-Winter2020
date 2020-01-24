@@ -10,16 +10,16 @@ This course requires knowledge of basic computer science, algorithms and complex
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
     - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
-    - Yewen Wang (Email: wyw10804 at cs dot ucla dot edu)
-    - Chi Zhang (Email: zccc at cs dot ucla dot edu)
+    - [Yewen Wang](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0) (Email: wyw10804 at cs dot ucla dot edu)
+    - [Chi Zhang](http://web.cs.ucla.edu/~zccc/cs161.html) (Email: zccc at cs dot ucla dot edu)
     - Dongruo Zhou (Email: drzhou at cd dot ucla dot edu)
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is: 
-        - [Yewen Wang](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0), Monday 9:00am-11:00am at Bolter Hall 3256S-A
+        - Yewen Wang, Monday 9:00am-11:00am at Bolter Hall 3256S-A
         - Dongruo Zhou, Tuesday 15:00pm-17:00pm at Bolter Hall 3256S-A
         - Shirley Chen, Wednesday 11:00am-1:00pm at Bolter Hall 3256S-B
-        - [Chi Zhang](http://web.cs.ucla.edu/~zccc/cs161.html), Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
+        - Chi Zhang, Thursday 9:00am-11:00am at Bolter Hall 3256S-A.
 - Course Website: [https://uclaml.github.io/CS161-Winter2020/](https://uclaml.github.io/CS161-Winter2020/)
 - Course Forum: [https://piazza.com/ucla/winter2020/cs161/home](https://piazza.com/ucla/winter2020/cs161/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2020/cs161).)
