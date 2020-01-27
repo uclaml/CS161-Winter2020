@@ -12,7 +12,7 @@ This course requires knowledge of basic computer science, algorithms and complex
     - Shirley Chen (Email: shirleychen at cs dot ucla dot edu)
     - [Yewen Wang](https://sites.google.com/view/wyw10804/home/win20cs161?authuser=0) (Email: wyw10804 at cs dot ucla dot edu)
     - [Chi Zhang](http://web.cs.ucla.edu/~zccc/cs161.html) (Email: zccc at cs dot ucla dot edu)
-    - Dongruo Zhou (Email: drzhou at cd dot ucla dot edu)
+    - [Dongruo Zhou](https://sites.google.com/view/drzhou) (Email: drzhou at cd dot ucla dot edu)
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is: 
