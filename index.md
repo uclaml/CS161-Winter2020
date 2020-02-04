@@ -44,7 +44,7 @@ Grades will be computed based on the following factors:
 | 5 | 1/22 | [Informed search strategies](https://www.dropbox.com/s/vksvsdc1t4b6s3q/Lecture4.pdf?dl=0), [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0)| Chapter 3,4,11 | HW1 Due, HW2 Out |
 | 6 | 1/27 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
 | 7 | 1/29 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
-| 8 | 2/3 | Constraint satisfaction | Chapter 6 | HW2 Due, HW3 Out |
+| 8 | 2/3 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
 | 9 | 2/5 | Game playing | Chapter 5 | |
 | 10 | 2/10 | Game playing | Chapter 5 | |
 | 11 | 2/12 | Propositional logic: Representation | Chapter 7 | HW3 Due, Hw4 Out |
