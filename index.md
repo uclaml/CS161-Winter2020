@@ -46,7 +46,7 @@ Grades will be computed based on the following factors:
 | 7 | 1/29 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 8 | 2/3 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
 | 9 | 2/5 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 5 | |
-| 10 | 2/10 | [Game playing](https://www.dropbox.com/s/5r5dkvbwmfzwv1y/Lecture7.pdf?dl=0) | Chapter 5 | |
+| 10 | 2/10 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
 | 11 | 2/12 | Propositional logic: Representation | Chapter 7 | HW3 Due, Hw4 Out |
 | | 2/17 | President's Day | | |
 | 12 | 2/19 | Propositional logic: Inference | Chapter 7 | |
