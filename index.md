@@ -45,11 +45,11 @@ Grades will be computed based on the following factors:
 | 6 | 1/27 | [Local Search Algorithms](https://www.dropbox.com/s/6orvbrpv3bm6dtw/Lecture5.pdf?dl=0) | Chapter 4 | |
 | 7 | 1/29 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 8 | 2/3 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | HW2 Due, HW3 Out |
-| 9 | 2/5 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 5 | |
+| 9 | 2/5 | [Constraint satisfaction](https://www.dropbox.com/s/rx2zq0wgjy7c7hm/Lecture6.pdf?dl=0) | Chapter 6 | |
 | 10 | 2/10 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
-| 11 | 2/12 | Propositional logic: Representation | Chapter 7 | HW3 Due, Hw4 Out |
+| 11 | 2/12 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | | 2/17 | President's Day | | |
-| 12 | 2/19 | Propositional logic: Inference | Chapter 7 | |
+| 12 | 2/19 | Propositional logic | Chapter 7 | |
 | | 2/24 | Midterm Exam | | HW4 Due, HW5 Out |
 | 13 | 2/26 | First-order logic: Representation | Chapter 8 | |
 | 14 | 3/2 | First-order logic: Inference | Chapter 9 | |
