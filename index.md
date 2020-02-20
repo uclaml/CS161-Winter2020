@@ -49,7 +49,7 @@ Grades will be computed based on the following factors:
 | 10 | 2/10 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | |
 | 11 | 2/12 | [Game playing](https://www.dropbox.com/s/1h9scrlorvdmnpf/Lecture7.pdf?dl=0) | Chapter 5 | HW3 Due, Hw4 Out |
 | | 2/17 | President's Day | | |
-| 12 | 2/19 | Propositional logic | Chapter 7 | |
+| 12 | 2/19 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
 | | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | HW5 Out |
 | 13 | 2/26 | First-order logic: Representation | Chapter 8 | |
 | 14 | 3/2 | First-order logic: Inference | Chapter 9 | HW4 Due |
