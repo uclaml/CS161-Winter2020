@@ -53,8 +53,8 @@ Grades will be computed based on the following factors:
 | | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | HW5 Out |
 | 14 | 3/2 | First-order logic | Chapter 9 | HW4 Due |
-| 15 | 3/4 | Reasoning under uncertainty | Chapter 13 | HW5 Due, HW6 Out |
-| 16 | 3/9 | Bayesian Networks | Chapter 14 | |
+| 15 | 3/4 | Reasoning under uncertainty | Chapter 13 | HW6 Out |
+| 16 | 3/9 | Bayesian Networks | Chapter 14 | HW5 Due |
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
 | | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
