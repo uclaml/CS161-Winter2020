@@ -51,8 +51,8 @@ Grades will be computed based on the following factors:
 | | 2/17 | President's Day | | |
 | 12 | 2/19 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0) | Chapter 7 | |
 | | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
-| 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7 | HW5 Out |
-| 14 | 3/2 | First-order logic | Chapter 8, 9 | HW4 Due |
+| 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
+| 14 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
 | 15 | 3/4 | Reasoning under uncertainty | Chapter 13 | HW6 Out |
 | 16 | 3/9 | Bayesian Networks | Chapter 14 | HW5 Due |
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
