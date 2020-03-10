@@ -53,8 +53,8 @@ Grades will be computed based on the following factors:
 | | 2/24 | [Midterm Exam](https://www.dropbox.com/s/lhk376z72t6acfy/CS161%20Study%20Guide.docx?dl=0) | | |
 | 13 | 2/26 | [Propositional logic](https://www.dropbox.com/s/7uevivcb05kwmt6/Lecture8.pdf?dl=0), [first order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0) | Chapter 7, 8 | HW5 Out |
 | 14 | 3/2 | [First-order logic: representation](https://www.dropbox.com/s/weocjgar0rkx2n8/Lecture9.pdf?dl=0), [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0) | Chapter 8, 9 | HW4 Due |
-| 15 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
-| 16 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/6aqiwmdk317llun/Lecture11.pdf?dl=0), [Bayesian Networks](https://www.dropbox.com/s/v3gvzvl29fadyl6/Lecture12.pdf?dl=0) | Chapter 13 | HW5 Due |
+| 15 | 3/4 | [First-order logic: inference](https://www.dropbox.com/s/2k7lnkw4xm1f5o1/Lecture10.pdf?dl=0), [Reasoning under uncertainty](https://www.dropbox.com/s/44mbwa9eirsfi1y/Lecture11.pdf?dl=0) | Chapter 9, 13 | HW6 Out (on 3/8) |
+| 16 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/44mbwa9eirsfi1y/Lecture11.pdf?dl=0), [Bayesian Networks](https://www.dropbox.com/s/v3gvzvl29fadyl6/Lecture12.pdf?dl=0) | Chapter 13 | HW5 Due |
 | 17 | 3/11 | Bayesian Networks | Chapter 14 | |
 | | 3/16 |  | | HW6 Due |
 | | 3/20 | Final Exam | | |
