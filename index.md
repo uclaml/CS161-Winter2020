@@ -57,7 +57,7 @@ Grades will be computed based on the following factors:
 | 16 | 3/9 | [Reasoning under uncertainty](https://www.dropbox.com/s/44mbwa9eirsfi1y/Lecture11.pdf?dl=0), [Bayesian Networks](https://www.dropbox.com/s/v3gvzvl29fadyl6/Lecture12.pdf?dl=0) | Chapter 13, 14 | HW5 Due |
 | 17 | 3/11 | [Bayesian Networks: Inference](https://www.dropbox.com/s/9ja8sb2uwbf1ne9/Lecture13.pdf?dl=0) | Chapter 14 | |
 | | 3/16 |  | | HW6 Due |
-| | 3/20 | Final Exam | | |
+| | 3/20 | [Final Exam](https://www.dropbox.com/s/yzq50zntu772gqt/CS161%20Study%20Guide.docx?dl=0) | | |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
